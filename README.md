@@ -1,6 +1,6 @@
 # CV
 
-CV is a HTML Library That Showes My Personal Site Coded with HTML Language
+CV is a HTML Library That Shows My Personal Site Coded with HTML Language
 
 ## Contributing
 
